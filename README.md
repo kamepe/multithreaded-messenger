@@ -1,1 +1,1 @@
-# multithreaded-messenger
+It is a multithreaded messengaer app that can transfer files and messages through a central server
